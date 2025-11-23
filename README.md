@@ -10,7 +10,7 @@ To write an embedded C program to interface a Stepper Motor with ARM processor L
 - ARM LPC1768
 - Stepper Motor
 
-PROCEDURE
+**PROCEDURE**
 
 1. Open Keil µVision and select Project → New µVision Project.
 
