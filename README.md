@@ -1,3 +1,5 @@
+# NAME: JANANI V
+# REG NO: 212223060099
 # Interfacing-of-ADC-with-LPC1768-ARM-Processor
 
 **AIM**
